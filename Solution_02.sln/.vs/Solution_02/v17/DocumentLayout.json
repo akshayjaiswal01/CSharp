@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\iet\\desktop\\250845920001\\dot_net\\solution_02.sln\\factorydesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|solutionrelative:factorydesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\iet\\desktop\\250845920001\\dot_net\\solution_02.sln\\factorydesignpattern\\databasefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|solutionrelative:factorydesignpattern\\databasefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\iet\\desktop\\250845920001\\dot_net\\solution_02.sln\\factorydesignpattern\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|solutionrelative:factorydesignpattern\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\iet\\desktop\\250845920001\\dot_net\\solution_02.sln\\factorydesignpattern\\oracleserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|solutionrelative:factorydesignpattern\\oracleserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\iet\\desktop\\250845920001\\dot_net\\solution_02.sln\\factorydesignpattern\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|solutionrelative:factorydesignpattern\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\iet\\desktop\\250845920001\\dot_net\\solution_02.sln\\factorydesignpattern\\mysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F8667-7677-4582-A6C6-C54859E76731}|FactoryDesignPattern\\FactoryDesignPattern.csproj|solutionrelative:factorydesignpattern\\mysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OracleServer.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\OracleServer.cs",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\OracleServer.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\OracleServer.cs",
+              "RelativeToolTip": "FactoryDesignPattern\\OracleServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:20:51.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlServer.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\SqlServer.cs",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\SqlServer.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\SqlServer.cs",
+              "RelativeToolTip": "FactoryDesignPattern\\SqlServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:18:21.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySqlServer.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\MySqlServer.cs",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\MySqlServer.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\MySqlServer.cs",
+              "RelativeToolTip": "FactoryDesignPattern\\MySqlServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:16:28.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\DataBaseFactory.cs",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\DataBaseFactory.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\DataBaseFactory.cs",
+              "RelativeToolTip": "FactoryDesignPattern\\DataBaseFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:11:52.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\IDatabase.cs",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\IDatabase.cs",
+              "RelativeToolTip": "FactoryDesignPattern\\IDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:10:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920001\\Dot_Net\\Solution_02.sln\\FactoryDesignPattern\\Program.cs",
+              "RelativeToolTip": "FactoryDesignPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:08:41.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

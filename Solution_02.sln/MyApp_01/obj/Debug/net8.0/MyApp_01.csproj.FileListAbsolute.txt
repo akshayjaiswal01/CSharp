@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\bin\Debug\net8.0\MyApp_01.exe
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\bin\Debug\net8.0\MyApp_01.deps.json
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\bin\Debug\net8.0\MyApp_01.runtimeconfig.json
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\bin\Debug\net8.0\MyApp_01.dll
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\bin\Debug\net8.0\MyApp_01.pdb
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\obj\Debug\net8.0\MyApp_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\obj\Debug\net8.0\MyApp_01.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\obj\Debug\net8.0\MyApp_01.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\obj\Debug\net8.0\MyApp_01.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\obj\Debug\net8.0\MyApp_01.dll
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\obj\Debug\net8.0\refint\MyApp_01.dll
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\obj\Debug\net8.0\MyApp_01.pdb
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\obj\Debug\net8.0\MyApp_01.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920001\Dot_Net\Solution_02.sln\MyApp_01\obj\Debug\net8.0\ref\MyApp_01.dll
